@@ -1,0 +1,6 @@
+lime_rule,lime_weight
+checking_status=0,0.1350609699161394
+savings_status=0,0.06016959169490757
+employment=1,0.05741120063957686
+2.00 < installment_rate <= 3.00,0.0380849734984706
+property_magnitude=0,-0.032788272507503
